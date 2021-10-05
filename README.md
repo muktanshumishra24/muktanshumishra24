@@ -4,12 +4,12 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=muktanshumishra24&label=Profile%20views&color=0e75b6&style=flat" alt="muktanshumishra24" /> </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<muktanshumishra24>&theme=<THEME_NAME>" /> -->
   <p align="center">
-  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="500" hieght="300"/>
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="600" hieght="400"/>
   </p>
  
   
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=muktanshumishra24&count_private=true&show_icons=true&theme=radical"/></a>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muktanshumishra24&" alt="muktanshumishra24" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muktanshumishra24&" alt="muktanshumishra24" />
 
 - 🌱 I’m currently learning **NodeJS, MongoDB and Typescript.**
 
