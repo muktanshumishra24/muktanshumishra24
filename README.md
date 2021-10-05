@@ -5,7 +5,7 @@
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muktanshumishra24" alt="muktanshumishra24" /></a> </p> -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<muktanshumishra24>&theme=<dark>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<muktanshumishra24>&theme=<>" />
 
 - 🌱 I’m currently learning **NodeJS, MongoDB and Typescript.**
 
