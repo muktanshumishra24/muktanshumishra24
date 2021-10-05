@@ -9,7 +9,7 @@
   <img  height="300" width="500" align="center" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
 </p
   
-<p align="center">
+<p >
   <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=muktanshumishra24&count_private=true&show_icons=true&theme=radical" />
   </a>
