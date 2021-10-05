@@ -10,7 +10,9 @@
 </p
   
 <p align="center>
+  <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=muktanshumishra24&count_private=true&show_icons=true&theme=radical" />
+  </a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muktanshumishra24&" alt="muktanshumishra24" />
 </p>
 
