@@ -10,6 +10,10 @@
   
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=muktanshumishra24&count_private=true&show_icons=true&theme=radical"/></a>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muktanshumishra24&" alt="muktanshumishra24" />
+  
+   <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muktanshumishra24&show_icons=true&locale=en&layout=compact" alt="muktanshumishra24" />
+  </p>
 
 - 🌱 I’m currently learning **NodeJS, MongoDB and Typescript.**
 
@@ -30,6 +34,4 @@
 
 
 
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muktanshumishra24&show_icons=true&locale=en&layout=compact" alt="muktanshumishra24" />
-  </p>
+
