@@ -14,10 +14,6 @@
 
 - 👨‍💻 All of my projects are available at [https://muktanshumishra24.github.io/Muktanshu_Mishra_Portfolio/index.html](https://muktanshumishra24.github.io/Muktanshu_Mishra_Portfolio/index.html)
 
-- 💬 Ask me about **HTML,CSS,JS and REACT**
-
-- 📫 How to reach me **muktanshumishra24@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/17AV0sbQHbB4gfl-CiSm3HBC_K32QCQiq/view?usp=sharing](https://drive.google.com/file/d/17AV0sbQHbB4gfl-CiSm3HBC_K32QCQiq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
