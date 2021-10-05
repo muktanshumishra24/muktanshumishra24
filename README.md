@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muktanshu Mishra</h1>
 <h3 align="center">Front-End & Competitive Programming, Undergrad @DTU</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muktanshumishra24&label=Profile%20views&color=0e75b6&style=flat" alt="muktanshumishra24" /> </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<muktanshumishra24>&theme=<THEME_NAME>" />
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=muktanshumishra24&label=Profile%20views&color=0e75b6&style=flat" alt="muktanshumishra24" /> </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<muktanshumishra24>&theme=<THEME_NAME>" /> -->
 
 
 - 🌱 I’m currently learning **NodeJS, MongoDB and Typescript.**
