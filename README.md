@@ -2,10 +2,8 @@
 <h3 align="center">Front-End & Competitive Programming, Undergrad @DTU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muktanshumishra24&label=Profile%20views&color=0e75b6&style=flat" alt="muktanshumishra24" /> </p>
-<!-- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muktanshumishra24" alt="muktanshumishra24" /></a> </p> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<muktanshumishra24>&theme=<THEME_NAME>" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<muktanshumishra24>&theme=<>" />
 
 - 🌱 I’m currently learning **NodeJS, MongoDB and Typescript.**
 
