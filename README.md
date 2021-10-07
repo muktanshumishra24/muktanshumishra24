@@ -8,7 +8,8 @@
   </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muktanshumishra24&show_icons=true&theme=tokyonight&align=center)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muktanshumishra24&show_icons=true&locale=en&layout=compact" alt="muktanshumishra24" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muktanshumishra24&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🌱 I’m currently learning **NodeJS, MongoDB and Typescript.**
 
 - 👨‍💻 All of my projects are available at [https://muktanshumishra24.github.io/Muktanshu_Mishra_Portfolio/index.html](https://muktanshumishra24.github.io/Muktanshu_Mishra_Portfolio/index.html)
