@@ -8,7 +8,8 @@
   </p>
  
    <p align="center">
-[![Muktanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=muktanshumishra24)](https://github.com/muktanshumishra24/github-readme-stats)
+[![Muktanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=muktanshumishra24)](https://github.com/anuraghazra/github-readme-stats)
+
   </p>
   
   
