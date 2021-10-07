@@ -8,7 +8,7 @@
   </p>
  
    <p align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=muktanshumishra24&count_private=true&show_icons=true&theme=radical"/></a>
+[![Muktanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=muktanshumishra24)](https://github.com/muktanshumishra24/github-readme-stats)
   </p>
   
   
