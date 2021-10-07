@@ -7,17 +7,8 @@
   <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="600" hieght="400"/>
   </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&align=center)
-
-
-  
-  
-
-  
-   <p align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muktanshumishra24&show_icons=true&theme=tokyonight&align=center)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muktanshumishra24&show_icons=true&locale=en&layout=compact" alt="muktanshumishra24" />
-  </p>
-
 - 🌱 I’m currently learning **NodeJS, MongoDB and Typescript.**
 
 - 👨‍💻 All of my projects are available at [https://muktanshumishra24.github.io/Muktanshu_Mishra_Portfolio/index.html](https://muktanshumishra24.github.io/Muktanshu_Mishra_Portfolio/index.html)
