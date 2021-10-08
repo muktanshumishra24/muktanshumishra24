@@ -2,16 +2,18 @@
 <h3 align="center">Front-End & Competitive Programming, Undergrad @DTU</h3>
 <h3 align="Justify"> 🤘 I'm an Engineering Student in IT Field. 💻 Always available to <strong>collaborate</strong>. 🤝 <i>π</i> Learning curve and always <b>exploring</b> new things to leverage on them and build cool stuff.🛠️ Branched fields of interest 🌴 and <b>Open Source</b> Contributor.</h3>
 
-<img src="./assets/media/header_.png">
+  <p align="center">
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="600" hieght="400"/>
+  </p>
 
 ### 🧐 More About Me:
-- 🔭 &nbsp; I am currently working on **JS Projects**.
-- 🌱 &nbsp; Following **MERN Stack** and **Web Security**.
-- 🎨 &nbsp; Shadowed skills on **Reverse Engineering** & **Web Security**.
-- 🔎 &nbsp; Research ongoing on studying the working of **Live Streaming** and **OTT Platforms**.
-- ✊ &nbsp; Practising & Learning large scale Development Operations.
+- 🔭 &nbsp; I am currently working on **REACT Js Projects**.
+- 🌱 I’m currently learning *NodeJS, MongoDB and Typescript.*
 - 💬 &nbsp; Ask me anything related to my field via Github or Telegram.
-- 🌐 &nbsp; Music, Medium and Open Source Communities are constant Supporters 😌
+- 👨‍💻 All of my projects are available at [https://muktanshumishra24.github.io/Muktanshu_Mishra_Portfolio/index.html](https://muktanshumishra24.github.io/Muktanshu_Mishra_Portfolio/index.html)
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/17AV0sbQHbB4gfl-CiSm3HBC_K32QCQiq/view?usp=sharing](https://drive.google.com/file/d/17AV0sbQHbB4gfl-CiSm3HBC_K32QCQiq/view?usp=sharing)
+
 
 ##
 ### 🏆 Github Stats
