@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Muktanshu Mishra</h1>
 <h3 align="center">Front-End & Competitive Programming, Undergrad @DTU</h3>
+<h3 align="Justify"> 🤘 I'm an Engineering Student in IT Field. 💻 Always available to <strong>collaborate</strong>. 🤝 <i>π</i> Learning curve and always <b>exploring</b> new things to leverage on them and build cool stuff.🛠️ Branched fields of interest 🌴 and <b>Open Source</b> Contributor.</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=muktanshumishra24&label=Profile%20views&color=0e75b6&style=flat" alt="muktanshumishra24" /> </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<muktanshumishra24>&theme=<THEME_NAME>" /> -->
-  <p align="center">
-  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="600" hieght="400"/>
-  </p>
-  
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muktanshumishra24&show_icons=true&theme=tokyonight&align=center)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muktanshumishra24&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<img src="./assets/media/header_.png">
 
+### 🧐 More About Me:
+- 🔭 &nbsp; I am currently working on **JS Projects**.
+- 🌱 &nbsp; Following **MERN Stack** and **Web Security**.
+- 🎨 &nbsp; Shadowed skills on **Reverse Engineering** & **Web Security**.
+- 🔎 &nbsp; Research ongoing on studying the working of **Live Streaming** and **OTT Platforms**.
+- ✊ &nbsp; Practising & Learning large scale Development Operations.
+- 💬 &nbsp; Ask me anything related to my field via Github or Telegram.
+- 🌐 &nbsp; Music, Medium and Open Source Communities are constant Supporters 😌
 
-- 🌱 I’m currently learning **NodeJS, MongoDB and Typescript.**
+##
+### 🏆 Github Stats
 
-- 👨‍💻 All of my projects are available at [https://muktanshumishra24.github.io/Muktanshu_Mishra_Portfolio/index.html](https://muktanshumishra24.github.io/Muktanshu_Mishra_Portfolio/index.html)
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/17AV0sbQHbB4gfl-CiSm3HBC_K32QCQiq/view?usp=sharing](https://drive.google.com/file/d/17AV0sbQHbB4gfl-CiSm3HBC_K32QCQiq/view?usp=sharing)
+<img  src="https://github-readme-stats.vercel.app/api?username=muktanshumishra24&show_assets=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=muktanshumishra24&theme=dark" width="48%" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
