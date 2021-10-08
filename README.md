@@ -17,7 +17,8 @@
 
 ##
 ### 🏆 Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muktanshumishra24&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<img  src="https://github-readme-stats.vercel.app/api?username=muktanshumishra24&show_assets=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=muktanshumishra24&theme=dark" width="48%" >
 
 <h3 align="left">Connect with me:</h3>
