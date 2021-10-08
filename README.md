@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muktanshu Mishra</h1>
 <h3 align="center">Front-End & Competitive Programming</h3>
-<h3 align="Justify"> 🤘 I'm an Engineering Student @DTU. 💻 Always available to <strong>collaborate</strong>. 🛠️ Branched fields of interest 🌴 and <b>Open Source</b> Contributor.</h3>
 
   <p align="center">
   <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="600" hieght="400"/>
@@ -17,8 +16,7 @@
 
 ##
 ### 🏆 Github Stats
-
-<img  src="https://github-readme-stats.vercel.app/api?username=muktanshumishra24&show_assets=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img src="https://komarev.com/ghpvc/?username=muktanshumishra24&label=Profile%20views&color=0e75b6&style=flat" alt="muktanshumishra24" />
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=muktanshumishra24&theme=dark" width="48%" >
 
 <h3 align="left">Connect with me:</h3>
