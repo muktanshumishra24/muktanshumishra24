@@ -9,7 +9,6 @@
 ### 🧐 More About Me:
 - 🔭 &nbsp; I am currently working on **REACT Js Projects**.
 - 🌱 I’m currently learning *NodeJS, MongoDB and Typescript.*
-- 💬 &nbsp; Ask me anything related to my field via Github or Telegram.
 - 👨‍💻 All of my projects are available at [https://muktanshumishra24.github.io/Muktanshu_Mishra_Portfolio/index.html](https://muktanshumishra24.github.io/Muktanshu_Mishra_Portfolio/index.html)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QgXUwRFl9HjE1Y76_-Nrndx8wl5y31fL/view?usp=sharing]
