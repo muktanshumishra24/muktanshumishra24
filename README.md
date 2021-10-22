@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muktanshu Mishra</h1>
-<!-- <h3 align="center">Front-End & Competitive Programming</h3> -->
+<h3 align="center">Front-End & Competitive Programming</h3>
 <img src="https://komarev.com/ghpvc/?username=muktanshumishra24&label=Profile%20views&color=0e75b6&style=flat" alt="muktanshumishra24" />
 
   <p align="center">
