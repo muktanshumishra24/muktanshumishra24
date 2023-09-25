@@ -1,17 +1,17 @@
-Hi![](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif)
-My name is Muktanshu Mishra
+
+Hello! I am Muktanshu Mishra
 ========================================================================================================================================
 
 Developer Evangelism and Web3 Development
 ------------------------------------
 
-I have been in the Web3 and Blockchain Space for 2.5+ Years . I currently work as a Developer Evangelist. I love talking and reading about DAOs and most of my work revolves around the Third Generation of Web.
+I have been in the Web3 and Blockchain Space for 2.5+ Years. I currently work as a Developer Evangelist. I love talking and reading about DAOs and most of my work revolves around the Third Generation of Web.
 
 * 🌍  I'm based in Delhi, India.
 * 🚀  I'm currently working at [Arcana Network](https://www.arcana.network/)
-* 🧠  I'm learning about Web3 Architecture, Defi and Non EVMs.
+* 🧠  I'm learning about Web3 Architecture, Defi, and Non EVMs.
 * 🤝  I'm open to collaborating on Web3 Projects and Integrations
-* ⚡  I like creating videos, writing articles and scrolling through Twitter, DApp-Radar and Snapshot.
+* ⚡  I like creating videos, writing articles, and scrolling through Twitter, DApp-Radar, and Snapshot.
 * 🖥️  See my portfolio at [muktanshu.me](http://www.muktanshu.me/)
 * ✉️  You can contact me at [muktanshumishra24@gmail.com](mailto:muktanshumishra24@gmail.com)
 
