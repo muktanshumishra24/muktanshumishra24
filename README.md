@@ -2,7 +2,7 @@
 Hello! I am Muktanshu Mishra
 ========================================================================================================================================
 
-Web3 Engineer, Developer Evangelist, and Full Stack.
+Web3 Engineer, Developer Evangelist and Full Stack.
 ------------------------------------
 
 I have been in the Web3 and Blockchain Space for 2.5+ Years. I currently work as a Developer Evangelist. I love talking and reading about DAOs and most of my work revolves around the Third Generation of Web.
