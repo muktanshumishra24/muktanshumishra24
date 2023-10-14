@@ -30,13 +30,23 @@
 
 ###
 
-<p align="left">- 🔭 I do Integrations & Relations at [Arcana Network (https://www.arcana.network/) <br>  <br>- 👯 I am currently Building [Shady Labs](https://shadylabs.xyz/home) & [SelectricGo](https://selectricgo.com/)<br>  <br>- 🌱 I am trying to wrap my head around **Rust & Solidity** Tutorials.<br><br>- 👨‍💻 You can check out My Portfolio [here](https://muktanshu.vercel.app/)!<br>  <br>- 🎧 I blabber about Web3 at [Developuccino](https://www.youtube.com/@developuccino)<br><br>- 📝 I regularly write stuff on [Medium](https://medium.com/@muktanshumishra24)<br><br>- 📫 You can drop a mail over **muktanshumishra24@gmail.com**<br><br>- 📄 Find my Curriculum Vitae [here](https://drive.google.com/file/d/12CasyN1EAG08tATJgL1Uk9yLu7jkOwDC/view?usp=sharing).</p>
+- 🔭 I do Integrations & Relations at [Arcana Network](https://www.arcana.network/) 
+  
+- 👯 I am currently Building [Shady Labs](https://shadylabs.xyz/home) & [SelectricGo](https://selectricgo.com/)
+
+- 🌱 I am trying to wrap my head around **Rust & Solidity** Tutorials.
+
+- 👨‍💻 You can check out My Portfolio [here](https://muktanshu.vercel.app/)!
+  
+- 🎧 I blabber about Web3 at [Developuccino](https://www.youtube.com/@developuccino)
+
+- 📝 I regularly write stuff on [Medium](https://medium.com/@muktanshumishra24)
+
+- 📫 You can drop a mail over **muktanshumishra24@gmail.com**
+
+- 📄 Find my Curriculum Vitae [here](https://drive.google.com/file/d/12CasyN1EAG08tATJgL1Uk9yLu7jkOwDC/view?usp=sharing).
 
 ###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-</div>
 
 ###
 
