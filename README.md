@@ -32,23 +32,6 @@
 
 <p align="left">- 🔭 I do Integrations & Relations at [Arcana Network](https://www.arcana.network/) <br>  <br>- 👯 I am currently Building [Shady Labs](https://shadylabs.xyz/home) & [SelectricGo](https://selectricgo.com/)<br>  <br>- 🌱 I am trying to wrap my head around **Rust & Solidity** Tutorials.<br><br>- 👨‍💻 You can check out My Portfolio [here](https://muktanshu.vercel.app/)!<br>  <br>- 🎧 I blabber about Web3 at [Developuccino](https://www.youtube.com/@developuccino)<br><br>- 📝 I regularly write stuff on [Medium](https://medium.com/@muktanshumishra24)<br><br>- 📫 You can drop a mail over **muktanshumishra24@gmail.com**<br><br>- 📄 Find my Curriculum Vitae [here](https://drive.google.com/file/d/12CasyN1EAG08tATJgL1Uk9yLu7jkOwDC/view?usp=sharing).</p>
 
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/muktanshumishra24/muktanshumishra24/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muktanshumishra24&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muktanshumishra24&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=muktanshumishra24&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
-</div>
 
 ###
 
@@ -107,3 +90,8 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muktanshumishra24&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muktanshumishra24&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
