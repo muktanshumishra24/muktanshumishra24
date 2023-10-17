@@ -1,5 +1,4 @@
-<h1 align="center">Namaste!</h1>
-<h1 align="center">This is Muktanshu Mishra</h1>
+<h1 align="center">Namaste! This is Muktanshu Mishra</h1>
 
 ###
 
