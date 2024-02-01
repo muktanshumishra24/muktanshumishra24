@@ -3,7 +3,8 @@
 ###
 
 <h2 align="center">I am a Web3 & Integrations Engineer and A Developer Evangelist 👨🏻‍💻</h2>
-<h3 align="center">Web3 | Full-Stack Web & App Development | DevRel</h3>
+<h3 align="center">Web3 || Full-Stack Web & App Development || DevRel</h3>
+
 ###
 
 <div align="center">
