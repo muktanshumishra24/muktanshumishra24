@@ -1,9 +1,9 @@
-<h1 align="center">Namaste! This is Muktanshu Mishra</h1>
+<h1 align="center">Greetings! This is Muktanshu 👋</h1>
 
 ###
 
-<h2 align="center">I am a Web3 Engineer, Full Stack Developer & Dev Evangelist👨🏻‍💻</h2>
-
+<h2 align="center">I am a Web3 & Integrations Engineer and A Developer Evangelist 👨🏻‍💻</h2>
+<h3 align="center">I also do Full Stack Web and App Development.</h3>
 ###
 
 <div align="center">
