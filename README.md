@@ -31,13 +31,13 @@
 
 ###
 
-- 🔭 I do Integrations & Relations at [Arcana Network](https://www.arcana.network/) 
+- 🔭 I do Software Development for [Arcana Network](https://www.arcana.network/) 
   
-- 👯 I am currently Building [Shady Labs](https://shadylabs.xyz/home) & [SelectricGo](https://selectricgo.com/)
+- 👯 I am currently Building [Shady Labs](https://shadylabs.xyz/home) & Built [SelectricGo](https://selectricgo.com/)
 
 - 🌱 I am trying to wrap my head around **Rust & Solidity** Tutorials.
 
-- 👨‍💻 You can check out My Portfolio [here](https://muktanshu.vercel.app/)!
+- 👨‍💻 You can check out My Website [here](https://muktanshu.vercel.app/)!
   
 - 🎧 I blabber about Web3 at [Developuccino](https://www.youtube.com/@developuccino)
 
