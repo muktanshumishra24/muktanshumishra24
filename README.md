@@ -1,16 +1,14 @@
-<h2 align="center">A Web3 & Integrations Engineer and A Developer Evangelist 👨🏻‍💻</h2>
-
-<h3 align="left">🌟 About Me</h3>
+<h3 align="left"> About Me</h3>
 
 ###
 
-- 🔭 I am an Engineer at [Arcana Network](https://www.arcana.network/) 
+- I am an Engineer at [Arcana Network](https://www.arcana.network/) 
   
-- 👯 Currently Building [Shady Labs](https://shadylabs.xyz/home) & Built [SelectricGo](https://selectricgo.com/)
+- Currently Building [Shady Labs](https://shadylabs.xyz/home) & Built [SelectricGo](https://selectricgo.com/)
 
-- 🌱 I am trying to wrap my head around **Rust & Solidity** Tutorials.
+- I am trying to wrap my head around **Rust & Solidity** Tutorials.
 
-- 📫 You can drop a mail over **muktanshumishra24@gmail.com**
+- You can drop a mail over **muktanshumishra24@gmail.com**
 
 ###
 
