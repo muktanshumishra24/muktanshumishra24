@@ -8,8 +8,6 @@
 
 - I am trying to wrap my head around **Rust & Solidity** Tutorials.
 
-- You can drop a mail over **muktanshumishra24@gmail.com**
-
 ###
 
 <br clear="both">
