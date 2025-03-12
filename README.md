@@ -2,7 +2,7 @@
 
 ###
 
-- I am an Engineer at [Arcana Network](https://www.arcana.network/) 
+- I lead FrontEnd & Middleware at [TimeSwap](https://www.timeswap.io/) 
   
 - Currently Building [Shady Labs](https://shadylabs.xyz/home) & Built [SelectricGo](https://selectricgo.com/)
 
